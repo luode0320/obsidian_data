@@ -11,14 +11,10 @@
             "id": "1c91c05aa6a17218",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "欢迎.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "欢迎"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ]
@@ -201,6 +197,7 @@
   },
   "active": "1c91c05aa6a17218",
   "lastOpenFiles": [
+    "欢迎.md",
     "30-MOCs/blog-data/设计模式-逐篇沉淀.md",
     "30-MOCs/blog-data/算法-逐篇沉淀.md",
     "30-MOCs/blog-data/服务器-逐篇沉淀.md",
@@ -220,7 +217,6 @@
     "INDEX.md",
     "20-Knowledge/codex-rules/仓库总规则.md",
     "20-Knowledge/codex-rules",
-    "20-Knowledge",
-    "欢迎.md"
+    "20-Knowledge"
   ]
 }
