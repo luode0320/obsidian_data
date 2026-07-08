@@ -41,3 +41,11 @@ confidence: high
 ## blog-data 全量逐篇沉淀
 
 - [[30-MOCs/blog-data/全量逐篇沉淀总览|blog-data 全量逐篇沉淀总览]]：逐篇读取并归类沉淀 `F:/blog/data` 的 Markdown。
+
+
+
+## 当前项目
+
+- [[20-Knowledge/codex-rules/luode-skills-仓库概览|luode-skills 仓库概览]]：当前项目的入口、规则和 Git / Obsidian 联动口径。
+
+检索关键词：`luode-skills`、`AGENTS.md`、`CLAUDE.md`、`Git 提交`、`Obsidian:沉淀`
