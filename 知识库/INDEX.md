@@ -49,3 +49,7 @@ confidence: high
 - [[20-Knowledge/codex-rules/luode-skills-仓库概览|luode-skills 仓库概览]]：当前项目的入口、规则和 Git / Obsidian 联动口径。
 
 检索关键词：`luode-skills`、`AGENTS.md`、`CLAUDE.md`、`Git 提交`、`Obsidian:沉淀`
+
+- [[20-Knowledge/codex-skills/函数拆分颗粒规则|函数拆分颗粒规则]]：极短、单调用点、无副作用的简单检查职责可就地表达，用注释补清业务语义。
+
+检索关键词：`函数拆分`、`小函数内联`、`简单检查不强拆函数`、`职责拆分颗粒度`。
