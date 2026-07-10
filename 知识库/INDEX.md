@@ -9,15 +9,15 @@ tags:
   - index
 status: active
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-07-10
 source_sessions: []
 source_refs: []
-related:
-  - [[20-Knowledge/codex-rules/仓库总规则|仓库总规则]]
 entities: []
 topics:
   - 全局导航
 confidence: high
+related:
+  - 20-Knowledge/codex-rules/仓库总规则|仓库总规则
 ---
 
 # INDEX
@@ -53,3 +53,8 @@ confidence: high
 - [[20-Knowledge/codex-skills/函数拆分颗粒规则|函数拆分颗粒规则]]：极短、单调用点、无副作用的简单检查职责可就地表达，用注释补清业务语义。
 
 检索关键词：`函数拆分`、`小函数内联`、`简单检查不强拆函数`、`职责拆分颗粒度`。
+
+
+- [[20-Knowledge/通用后台异步导出下载中心完整性审查|通用后台异步导出下载中心完整性审查]]：记录 29 页/30 入口完成情况、匿名静态下载 P0、跨用户复用与流式导出缺口。
+
+检索关键词：`ellipal_admin`、`下载中心`、`后台异步导出`、`static/exportfile`、`跨用户复用`。
