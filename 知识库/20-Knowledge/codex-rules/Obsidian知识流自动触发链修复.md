@@ -58,3 +58,10 @@ obsidian-knowledge-flow 在 luode-skills 中采用选择性默认触发：仓库
 - 现已归位：D:\obsidian_data\知识库\20-Knowledge\codex-rules\
 - 这篇笔记属于知识库长期内容，不再保留在旧根目录下。
 
+
+
+## 2026-07-11 更新：项目四件套记忆闭环
+
+- 项目本地启动上下文固定为父目录平台规则 -> PROJECT_CURRENT.md -> PROJECT_MEMORY.md；缺失时先创建。
+- PROJECT_CURRENT.md 覆盖维护当前状态且不超过 51,200 字节，PROJECT_MEMORY.md 只保存稳定规则与关键决策，PROJECT_HISTORY.md 只追加并默认不读。
+- 项目本地 Markdown 与 Obsidian vault 分层；vault 仍只在跨项目历史或可复用知识场景通过 CLI 选择性检索或沉淀。
