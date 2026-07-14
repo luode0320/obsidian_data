@@ -69,3 +69,7 @@ related:
 
 - [[20-Knowledge/codex-rules/执行失败持续学习与主动预防|执行失败持续学习与主动预防]]：记录高风险调用的 prevent、recover、learn 路由、candidate/active 门禁与唯一 owner 案例演进。
   检索关键词：execution-failure-learning-rules、执行失败案例演进、prevent recover learn。
+
+## Windows/WSL bridge
+
+- [[20-Knowledge/Obsidian-Windows-WSL-CLI-Bridge|Obsidian Windows/WSL CLI bridge 固定执行边界]]：固定 vault、bridge-only、readback 与有限恢复。
